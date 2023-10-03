@@ -3,4 +3,4 @@ homework and tests for Data Science course at SkillFactory
 
 ## Projects:
 
-* [First project Guess the Nuber Game] (https://github.com/Sorkwild/sf_ds_tests/tree/main/project_0)
+* [First_project:_Guess_the_Nuber_Game] (https://github.com/Sorkwild/sf_ds_tests/tree/main/project_0)
